@@ -47,7 +47,9 @@ Following figure represents the dictionary dict7, letters near each stick repres
                       |           |
                         _ _ _ _ _
                       
-                            e            '''
+                            e        
+                            
+'''
 
                       
 
